@@ -17,7 +17,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Microsoft & Comparex Turkey OSS Teams
+        Microsoft Cloud Workshop
       </div>
       <div class="col-lg-6">
       </div>
